@@ -9,4 +9,4 @@ def paint_calc(height, width, cover):
 test_h = int(input("Height: "))
 test_w = int(input("Width: "))
 coverage = 5
-paint_calc(height = test_h, width=test_w, cover=coverage)
+paint_calc(height=test_h, width=test_w, cover=coverage)
